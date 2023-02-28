@@ -1,0 +1,5 @@
+mon site s'appelle adrarscore
+suivre les resultat dfes matches de foot en direct
+le sujet sa va etre les matches de foot de direct les equipes de foot et leur classement
+le service rendu est celui de pouvoir suivre le resultat de son equipe en direct
+le utilisateur qui viendront voir mon site ce sont les personne qui ont pas assez d'argent pour se payer un abonement bein ou les passionnees qui veulent suivre leyr equipe de partout 
